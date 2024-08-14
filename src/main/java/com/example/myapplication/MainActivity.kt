@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
                         "Harold Macmillan" -> "Died at the age 96"
                         "Betty White" -> "Died at the age of 99"
                         "Kirk Douglas" -> "Died at the age of 100"
-                        else -> "You are a senior."
+                        else -> "You are a senior member."
                     }
                 }"
             } else {
